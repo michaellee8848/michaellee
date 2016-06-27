@@ -1,0 +1,4 @@
+#my list of files not stored
+node_modules/*
+.idea/*
+public/image/*
